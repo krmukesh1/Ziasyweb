@@ -264,4 +264,7 @@ hr {
   .text-box h1 {
     font-size: 42px;
   }
+  iframe {
+    max-width: 350px !important;
+  }
 }
